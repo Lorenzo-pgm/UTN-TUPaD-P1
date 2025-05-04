@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Lorenzo Ojeda *[Modificar con su nombre completo]*  
+- **Nombre:** Lorenzo OJEDA *[Modificar con su nombre completo]*  
 - **Comisión:** M2025-8 *[Modificar con su comisión, donde 7 es el número de comisión]*  
 
 ## 📂 Descripción del Repositorio  
