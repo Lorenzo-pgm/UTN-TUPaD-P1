@@ -52,7 +52,6 @@ print(f"{numero} x 8 = {numero*8}")
 print(f"{numero} x 9 = {numero*9}")
 print(f"{numero} x 10 = {numero*10}")
 
-
 #-7
 #Se solicita al usuario ingrese numero entero.
 num = input("Ingrese un numero entero mayor a 0 : ")
@@ -87,7 +86,6 @@ celsius = float(celsius)
 fahrenheit = (celsius * 9//5 + 32)
 
 print(f"La temperatura en grados fahrenheit es: {fahrenheit} °F")
-
 
 #-10
 #Se calcula el promedio de una materia.
